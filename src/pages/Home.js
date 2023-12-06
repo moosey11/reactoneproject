@@ -9,7 +9,7 @@ const CANONICAL = Config.SITE_DOMAIN + "/";
 class Home extends React.Component{
     render() {
         return   ( <> 
-        <main>
+        
         <Helmet>
 					<title>{TITLE}</title>
 					<link rel="canonical" href={CANONICAL} />
@@ -441,7 +441,7 @@ class Home extends React.Component{
                     </div>
                 </div>
             </div>
-            </main>
+        
         </>
             );
     }

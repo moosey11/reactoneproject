@@ -19,6 +19,7 @@ function App() {
       <Router>
       <Navbar/>
       <Header/> 
+   
       <Switch>
       <Route exact path='/' component={Home}/>
       <Route path="/Regions" component={Regions}/>
