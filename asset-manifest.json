@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/reactoneproject/static/css/main.61c58ac6.css",
+    "main.js": "/reactoneproject/static/js/main.a6a40df7.js",
+    "static/js/787.f913ece5.chunk.js": "/reactoneproject/static/js/787.f913ece5.chunk.js",
+    "static/media/pattern9.jpg": "/reactoneproject/static/media/pattern9.878c8c4de0cc7c46e17f.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.1.0": "/reactoneproject/static/media/fontawesome-webfont.28d4b1c391cb60332e62.svg",
+    "static/media/fontawesome-webfont.ttf?v=4.1.0": "/reactoneproject/static/media/fontawesome-webfont.868ec8f8df1c889255ed.ttf",
+    "static/media/pattern1.jpg": "/reactoneproject/static/media/pattern1.ee8a723a11f8bbd6a11b.jpg",
+    "static/media/pattern1@2x.jpg": "/reactoneproject/static/media/pattern1@2x.ee8a723a11f8bbd6a11b.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.1.0": "/reactoneproject/static/media/fontawesome-webfont.1e2969104a4d86997b1a.woff",
+    "static/media/fontawesome-webfont.eot": "/reactoneproject/static/media/fontawesome-webfont.d87cac448762a72e4ac9.eot",
+    "static/media/glyphicons-halflings-regular.svg": "/reactoneproject/static/media/glyphicons-halflings-regular.864c2bdfdea09ee84833.svg",
+    "static/media/pattern2.jpg": "/reactoneproject/static/media/pattern2.1311a8c32daa67de41be.jpg",
+    "static/media/pattern4.jpg": "/reactoneproject/static/media/pattern4.c2d1b85684215f5441df.jpg",
+    "static/media/pattern6.jpg": "/reactoneproject/static/media/pattern6.f9aba234ae08982ac291.jpg",
+    "static/media/pattern5.jpg": "/reactoneproject/static/media/pattern5.68fa1608808697528e71.jpg",
+    "static/media/cozy-real-estate.svg": "/reactoneproject/static/media/cozy-real-estate.b7c00fede60a48e34d53.svg",
+    "static/media/glyphicons-halflings-regular.ttf": "/reactoneproject/static/media/glyphicons-halflings-regular.b7c243015cec15850248.ttf",
+    "static/media/pattern7.jpg": "/reactoneproject/static/media/pattern7.ed9bf9fd8178a3037283.jpg",
+    "static/media/glyphicons-halflings-regular.woff": "/reactoneproject/static/media/glyphicons-halflings-regular.e3cab037268b4e02bef8.woff",
+    "static/media/pattern8.jpg": "/reactoneproject/static/media/pattern8.9d9ecec270e89de9b04b.jpg",
+    "static/media/pattern3.jpg": "/reactoneproject/static/media/pattern3.accf9ff40c9032084080.jpg",
+    "static/media/glyphicons-halflings-regular.eot": "/reactoneproject/static/media/glyphicons-halflings-regular.2810d2a49be3af435f61.eot",
+    "static/media/cozy-real-estate.eot": "/reactoneproject/static/media/cozy-real-estate.71cd85dcbac65b73640c.eot",
+    "static/media/cozy-real-estate.ttf": "/reactoneproject/static/media/cozy-real-estate.b76b9d1ec54adcec5846.ttf",
+    "static/media/cozy-real-estate.woff": "/reactoneproject/static/media/cozy-real-estate.b0d20e8f78624afe5d2e.woff",
+    "index.html": "/reactoneproject/index.html",
+    "main.61c58ac6.css.map": "/reactoneproject/static/css/main.61c58ac6.css.map",
+    "main.a6a40df7.js.map": "/reactoneproject/static/js/main.a6a40df7.js.map",
+    "787.f913ece5.chunk.js.map": "/reactoneproject/static/js/787.f913ece5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61c58ac6.css",
+    "static/js/main.a6a40df7.js"
+  ]
+}
