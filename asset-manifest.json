@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/reactoneproject/static/css/main.61c58ac6.css",
-    "main.js": "/reactoneproject/static/js/main.a6a40df7.js",
+    "main.js": "/reactoneproject/static/js/main.3da2b920.js",
     "static/js/787.f913ece5.chunk.js": "/reactoneproject/static/js/787.f913ece5.chunk.js",
     "static/media/pattern9.jpg": "/reactoneproject/static/media/pattern9.878c8c4de0cc7c46e17f.jpg",
     "static/media/fontawesome-webfont.svg?v=4.1.0": "/reactoneproject/static/media/fontawesome-webfont.28d4b1c391cb60332e62.svg",
@@ -27,11 +27,11 @@
     "static/media/cozy-real-estate.woff": "/reactoneproject/static/media/cozy-real-estate.b0d20e8f78624afe5d2e.woff",
     "index.html": "/reactoneproject/index.html",
     "main.61c58ac6.css.map": "/reactoneproject/static/css/main.61c58ac6.css.map",
-    "main.a6a40df7.js.map": "/reactoneproject/static/js/main.a6a40df7.js.map",
+    "main.3da2b920.js.map": "/reactoneproject/static/js/main.3da2b920.js.map",
     "787.f913ece5.chunk.js.map": "/reactoneproject/static/js/787.f913ece5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.61c58ac6.css",
-    "static/js/main.a6a40df7.js"
+    "static/js/main.3da2b920.js"
   ]
 }
